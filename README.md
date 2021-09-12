@@ -6,7 +6,7 @@
 
 **Prefix:** sr.
 
-**Lang (Default)** TH
+**Lang (Default)** EN
 
 **Language Code:** JS
 
